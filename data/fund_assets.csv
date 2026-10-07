@@ -1,0 +1,6 @@
+asset_class,ticker,allocation_pct,current_value_usd
+Domestic Equities,SPY,0.4,40000000.0
+International Equities,VXUS,0.2,20000000.0
+Corporate Bonds,LQD,0.25,25000000.0
+Government Bonds,BND,0.1,10000000.0
+Cash Equivalents,BIL,0.05,5000000.0
