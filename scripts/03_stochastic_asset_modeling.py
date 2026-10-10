@@ -1,8 +1,7 @@
 
-Project: Corporate Pension Fund Asset-Liability Matching (ALM) & Solvency Stress-Tester
+""""
 Module: Strategic Portfolio Return Modeling & Stochastic Monte Carlo Asset-Liability Tracking
-Analyst: Lenny Wanjiru (DeKUT Actuarial Science)
-
+"""
 
 import os
 import logging
