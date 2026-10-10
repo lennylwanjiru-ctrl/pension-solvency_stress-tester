@@ -1,8 +1,7 @@
+"""
 
-Project: Corporate Pension Fund Asset-Liability Matching (ALM) & Solvency Stress-Tester
 Module: Relational Database Compiling, Window Functions & Liability-Curve Ingestion
-Analyst: Lenny Wanjiru (DeKUT Actuarial Science)
-
+"""
 
 import os
 import sqlite3
